@@ -1,0 +1,6 @@
+com\izdebski\service\BookServiceImpl.class
+com\izdebski\service\BookService.class
+com\izdebski\model\Book.class
+com\izdebski\dao\BookDaoImpl.class
+com\izdebski\controller\BooksController.class
+com\izdebski\dao\BookDao.class
