@@ -1,4 +1,4 @@
-# spring_mvc_course
+# Spring_MVC_Course
 
 * **1.Spring MVC Hello World–XML config based example**
 * **2.Spring MVC flow with an example | Spring MVC flow**
